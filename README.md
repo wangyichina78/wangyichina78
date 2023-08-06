@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @wangyichina78
-- 👀 I’m interested in pigs
-- 🌱 I’m currently learning how to speak pig language
-- 💞️ I’m looking to collaborate on pig things
-- 📫 How to reach me oink oink
+- 👀 I’m interested in robotics
+- 🌱 I’m currently learning how to use Canbus with Raspberry Pi
+- 💞️ I’m looking to collaborate on anything
+- 📫 How to reach me 
 
 <!---
 wangyichina78/wangyichina78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
